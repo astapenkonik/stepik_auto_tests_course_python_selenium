@@ -1,1 +1,1 @@
-Project: Test Automation with Selenium and Python
+This is a homework repository for the course: Test Automation with Selenium and Python
